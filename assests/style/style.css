@@ -91,42 +91,7 @@ body .cursor__ball circle {
 }
 
 
-/* ******************** image grid *********************** */
-/*
-body {
-    background: #3f4441;
-    font-family: 'Montserrat', sans-serif;
-}
 
-.navbar {
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    height: 30vh;
-    width: 100vw;
-    text-align: right;
-    background: #ffdecf;
-}
-
-.navbar h1 {
-    margin: 0 auto 0 110px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 30px;
-    color: #222831;
-}
-
-.navbar ul {
-    width: 100px;
-    font-weight: 800;
-    list-style: none;
-}
-
-.navbar a {
-    padding: 0px 10px 0 0;
-    text-decoration: none;
-    font-size: 20px;
-    color: #222831;
-}*/
 
 .grid-container {
     display: flex;
@@ -145,7 +110,7 @@ body {
 }
 
 .column img {
-    margin-top: 8px;
+    margin-block: 8px;
     vertical-align: middle;
     width: 100%;
 }
