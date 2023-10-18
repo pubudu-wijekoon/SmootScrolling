@@ -1,2 +1,2 @@
 # SmootScrolling
-This is a beta site for my next big project
+this is just a simple website build using locomotive scroll for photography in idea.
