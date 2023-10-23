@@ -37,8 +37,10 @@ body .cursor__ball circle {
 
 }
 
-.hero p {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.hero p,h1,h2 {
+    font-family: 'Poppins';font-size: 22px;
+    font-weight: 900;
+    
 }
 
 .not-just {
