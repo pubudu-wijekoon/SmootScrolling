@@ -13,3 +13,5 @@ This is just a simple website build using locomotive scroll for photography in i
 3. move to image gallery to each page
 4. add my picture to hero section
 5. made a fullscreen menu.
+6. add startup animation
+7. add page animation
