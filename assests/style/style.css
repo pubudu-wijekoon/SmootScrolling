@@ -141,3 +141,8 @@ body .cursor__ball circle {
     font-size: 48px;
     padding-top: 20px;
 }
+
+/*contact */
+.connect-sm a{
+    text-decoration: none;
+}
