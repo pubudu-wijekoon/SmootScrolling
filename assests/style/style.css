@@ -146,3 +146,6 @@ body .cursor__ball circle {
 .connect-sm a{
     text-decoration: none;
 }
+.connect-sm svg:hover{
+    fill: rgb(100, 100, 100);
+}
