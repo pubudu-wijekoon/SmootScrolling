@@ -135,6 +135,7 @@ body .cursor__ball circle {
 
 .footer h1 {
     font-size: 36px;
+    margin-bottom: -60px;
 }
 
 .footer h2 {
