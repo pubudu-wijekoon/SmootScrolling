@@ -14,5 +14,5 @@ This is just a simple website build using locomotive scroll for photography in i
 4. move to image gallery to each page
 5. made a fullscreen menu
 6. add startup animation
-7. add page animation
+7. add page animation can use barber.js
 8. add hover effects for mouse
